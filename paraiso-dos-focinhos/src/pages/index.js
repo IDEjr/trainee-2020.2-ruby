@@ -1,8 +1,8 @@
 import React from "react"
-import GodfathersSection from '../components/GodfathersSection' 
+import HelpSection from '../components/HelpSection' 
 
 export default function Home() {
   return (
-  <GodfathersSection />
+  <HelpSection />
   )
 }
