@@ -1,10 +1,10 @@
 import React from 'react'
 import '../estilo/HeaderStyle.css'
 
-function HeaderSection(){
+function Header(){
     return (
             /* inserir html*/
     );
 }
 
-export default HeaderSection
+export default Header
