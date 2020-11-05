@@ -6,8 +6,7 @@ section#help {
     display: block;
     width: 100%;
     margin: 0;
-    background-color: #414BB2;
-    background: url("aaaa.png") no-repeat fixed center;
+    background: #414BB2 url("aaaa.png") no-repeat scroll center;
     background-repeat: no-repeat;
     font-size: 20px;
 }
@@ -23,11 +22,11 @@ section#help div.corpo {
 section#help div.corpo h3{
     font-size: 45px;
     text-align: left;
-    margin-left: 17px;
+    margin-left: 1px;
 }
 
 section#help div.corpo p{
-    margin: auto auto auto 17px;
+    margin: auto auto auto 1px;
     font-size: 30px;
     text-align: left;
 }
@@ -35,12 +34,12 @@ section#help div.corpo p{
 section#help div.corpo h4{
     font-size: 20px;
     text-align: left;
-    margin-left: 17px;
+    margin-left: 1px;
 }
 
 section#help div.imgdog{
     display: block;
-    margin: auto 10px auto auto;
+    margin: auto 1px auto auto;
 }
 
 section#help div.corpo a{
