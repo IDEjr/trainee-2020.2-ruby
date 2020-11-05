@@ -7,6 +7,8 @@ section#help {
     width: 100%;
     margin: 0;
     background-color: #414BB2;
+    background: url("aaaa.png") no-repeat fixed center;
+    background-repeat: no-repeat;
     font-size: 20px;
 }
 
@@ -39,11 +41,6 @@ section#help div.corpo h4{
 section#help div.imgdog{
     display: block;
     margin: auto 10px auto auto;
-}
-
-section#help div.imgpaw{
-    display: block;
-    align-content: center;
 }
 
 section#help div.corpo a{
