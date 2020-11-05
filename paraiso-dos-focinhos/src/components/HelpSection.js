@@ -13,9 +13,9 @@ function HelpSection(){
               <img src=".\c1.jpg" alt="" />
             </div>
             <div class="imgpaw">
-              <img src="paraiso-dos-focinhos\static\aaaa.png" alt=""/>
+              <img src=".\aaaa.png" alt=""/>
             </div>
-            <p3>Não quer ser padrinho? Saiba como ajudar de outras formas:</p3>
+            <h4>Não quer ser padrinho? Saiba como ajudar de outras formas:</h4>
           </div>
         </section>
     );
